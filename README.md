@@ -199,7 +199,6 @@ print("Sorted student marks:", sorted_marks)
 
 
 Sorted student marks: [3, 9, 10, 25, 27, 38, 43, 82]
-```
 
 # Time Complexity
 
